@@ -1,0 +1,24 @@
+{
+    "name": "WidgetDiastimeter",
+    "version": "1.0.0",
+    "keywords": "Widget,Diastimeter",
+    "description": "测距仪应用库",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/intoyuniot/WidgetDiastimeter.git"
+    },
+    "authors": {
+        "name": "robin",
+        "email": "robin@molmc.com"
+    },
+    "dependencies":
+    [
+        {
+            "name": "HC_SR04",
+            "frameworks": "arduino"
+        }
+    ],
+    "frameworks": "arduino",
+    "platforms": "*"
+}
+
